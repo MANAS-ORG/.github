@@ -1,2 +1,2 @@
 # .github
-MANAS : Meta Adaptive Novel Application Software
+MANAS : Meta Adaptive Novel Adaptive Solutions
